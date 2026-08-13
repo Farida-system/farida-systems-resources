@@ -1,0 +1,12 @@
+Advertising key visual for a luxury amber perfume bottle.
+
+SUBJECT: a single rectangular glass perfume bottle with a brushed gold cap, filled with warm amber liquid, no printed text or logo anywhere on the bottle or label.
+CONTEXT: premium fragrance campaign for a Gulf audience, positioned as an evening signature scent.
+COMPOSITION: bottle placed slightly right of centre in the lower third, standing on a polished dark stone surface. Empty negative space across the entire upper 40 percent of the frame reserved for Arabic headline copy.
+CAMERA: 85mm macro perspective, eye-level, shallow depth of field, bottle in sharp focus.
+LIGHTING: single soft key light from the upper left creating a long soft shadow to the lower right, warm rim light along the right edge of the glass, deep controlled shadows, no harsh specular blowouts.
+MATERIAL AND TEXTURE: realistic thick glass with visible refraction, subtle fingerprint-free surface, matte brushed metal cap, fine dust-free stone grain.
+COLOR DIRECTION: deep burgundy and near-black background, champagne gold highlights, warm cream accents.
+REALISM: photorealistic studio product photography, not illustration, not 3D render.
+MUST NOT APPEAR: any text, any lettering, any logo, any watermark, any human hands, any flowers, any scattered props, any reflections of a studio or photographer.
+OUTPUT: vertical 4:5 advertising key visual with clean text-safe area at the top.

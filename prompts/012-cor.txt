@@ -1,0 +1,13 @@
+Advertising key visual for a skincare face cream jar.
+
+SUBJECT: one single white ceramic cream jar with a plain matte lid. The jar surface is completely blank. There is no printed text, no label, no lettering, no brand name and no logo anywhere on the jar or lid.
+CONTEXT: minimal skincare campaign, calm and clinical-natural, for a Gulf audience.
+COMPOSITION: the jar is the dominant subject and fills roughly one third of the frame height, positioned low and slightly right of centre. The entire upper half of the frame is empty flat background with nothing in it, reserved for Arabic headline copy.
+PROPS: a maximum of two small supporting elements only, placed low and behind the jar, no higher than the jar lid. Nothing may cross into the upper half of the frame.
+CAMERA: 85mm, slightly above eye level, jar in sharp focus, shallow depth of field behind.
+LIGHTING: soft directional key light from the upper left, gentle single shadow to the lower right, calm and even, no candles, no flame, no warm flicker.
+TEXTURE: realistic matte ceramic with fine surface grain, soft natural fabric, believable soft shadow contact under the jar.
+COLOR DIRECTION: warm sand and pale greige background, soft sage green accent, muted stone grey.
+REALISM: photorealistic product photography.
+MUST NOT APPEAR: any text, any lettering, any label, any brand name, any logo, any watermark, candles, flames, dried fruit slices, scattered stones, multiple plants, cluttered styling, hands, or any object in the upper half of the frame.
+OUTPUT: vertical 4:5 advertising key visual with a completely clean empty upper half for text.
