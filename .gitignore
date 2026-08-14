@@ -1,0 +1,12 @@
+# Licensed font binaries — never commit.
+# Forma DJR Arabic Display is licensed to Farida Systems for local use only.
+# The site loads the typeface from Adobe Fonts via the official embed code.
+_fonts/
+*.otf
+*.ttf
+*.woff
+*.woff2
+
+# OS noise
+.DS_Store
+Thumbs.db
